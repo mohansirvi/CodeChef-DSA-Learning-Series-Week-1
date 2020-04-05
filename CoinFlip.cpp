@@ -51,6 +51,7 @@ int main()
 {
     fast;
     int t=1;
+    //number of test cases
     cin>>t;
     while(t--)
     {
